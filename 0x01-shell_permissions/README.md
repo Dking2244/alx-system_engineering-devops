@@ -1,1 +1,1 @@
-print current user
+Whos am i
