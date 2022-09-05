@@ -1,1 +1,1 @@
-A command to print confused face
+Confused face
