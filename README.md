@@ -1,1 +1,1 @@
-New project on sjell
+New project on shell
